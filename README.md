@@ -11,7 +11,7 @@
 
 ## 🚀 Overview
 
-**PagePulse** is not your average bookstore – it’s a **fully-loaded e-commerce platform** built on the **MERN stack**. Whether you're a casual reader or a literary maniac, PagePulse delivers a smooth, fast, and secure book-buying experience.
+**PagePulse** is not your average bookstore – it’s a **fully-loaded e-commerce platform** built on the **MERN stack**. Whether you're a casual reader or a literary maniac, PagePulse delivers a smooth, fast, and secure book-buying experience with Admin Dashboard.
 
 ---
 
