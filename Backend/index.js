@@ -25,6 +25,7 @@ app.use(
       const allowedOrigins = [
         "http://localhost:5173",
         "https://page-pulse-five.vercel.app",
+        "https://pagepulse.nevinbali.me"
       ];
       if (!origin || allowedOrigins.includes(origin)) {
         callback(null, true);
